@@ -1,0 +1,16 @@
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\obj\Debug\net5.0\Teste estagio DTI.csproj.AssemblyReference.cache
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\obj\Debug\net5.0\Teste estagio DTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\obj\Debug\net5.0\Teste estagio DTI.AssemblyInfoInputs.cache
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\obj\Debug\net5.0\Teste estagio DTI.AssemblyInfo.cs
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\obj\Debug\net5.0\Teste estagio DTI.csproj.CoreCompileInputs.cache
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\bin\Debug\net5.0\Teste estagio DTI.exe
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\bin\Debug\net5.0\Teste estagio DTI.deps.json
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\bin\Debug\net5.0\Teste estagio DTI.runtimeconfig.json
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\bin\Debug\net5.0\Teste estagio DTI.runtimeconfig.dev.json
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\bin\Debug\net5.0\Teste estagio DTI.dll
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\bin\Debug\net5.0\ref\Teste estagio DTI.dll
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\bin\Debug\net5.0\Teste estagio DTI.pdb
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\obj\Debug\net5.0\Teste estagio DTI.dll
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\obj\Debug\net5.0\ref\Teste estagio DTI.dll
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\obj\Debug\net5.0\Teste estagio DTI.pdb
+C:\Users\Lygia Brito\source\repos\Teste estagio DTI\Teste estagio DTI\obj\Debug\net5.0\Teste estagio DTI.genruntimeconfig.cache

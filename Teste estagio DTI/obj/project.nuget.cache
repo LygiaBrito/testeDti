@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nqioZadUb+YGj9Qn3EzumISC1w1kP9XLyfUEQTAtLe2MTEdHdU9c9BKUYSfIq0F47hlqOqg40XYnW0cx98C4yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lygia Brito\\source\\repos\\Teste estagio DTI\\Teste estagio DTI\\Teste estagio DTI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lygia Brito\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
